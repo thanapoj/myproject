@@ -1,0 +1,4 @@
+3, 5, 9, 15, X, Y, Z
+<br>- Please create a new function for finding X, Y, Z value
+<br> X=23, Y=33, Z=45
+<br> Location Function: module/Application/src/Controller/Plugin/SCG.php
