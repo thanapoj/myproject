@@ -35,9 +35,9 @@ Edit -> index.php-> $conn = mysqli_connect('localhost', 'username', 'password','
 - ยังไม่ได้จัดระเบียบ Code เนื่องจากพัฒนาบน Server จริงโดยใช้ Directadmin 
 - ใช้เพื่อศึกษาเท่านั้น ไม่อนุญาตให้ใช้ในเชิงพาณิชย์ และ ไม่อนุญาตให้ใช้เป็น CV ส่วนตัว
 
-- Google map in Vue incomplete, the bug is refresh on page.
-- Code is not formater because I develop on real server (Tools: directadmin)
-- This code is for educational purpose. There is no use commercial and no use CV 
+- Google Map(Vue Cli) is incompleted, there is a bug when refreshing the page, it might access from new another page.
+- Code doesn't formatted because it is on developed processing in real server by using Directadmin.
+- This code is used for educational purpose only. It doesn't permit to use for commercial or personal CV.
 ```
 
 ## Contact Me
