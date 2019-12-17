@@ -4,7 +4,9 @@
 ```
 composer update
 composer install
+```
 
 ## Project Run
 ```
 composer serve
+```
