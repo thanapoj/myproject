@@ -2,7 +2,7 @@
 
 ## Demo 
 ```
-http://108dog.com:5000/
+ [testlink] http://108dog.com:5000/
 ```
 
 ## Install for windows
