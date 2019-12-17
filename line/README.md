@@ -1,4 +1,4 @@
-# vuezend
+# Line Messaging API
 
 ## Project setup
 ```
