@@ -2,7 +2,7 @@
 
 ## Demo 
 ```
- [testlink] http://108dog.com:5000/
+http://108dog.com:5000/ (Use http:// not https://)
 ```
 
 ## Install for windows
