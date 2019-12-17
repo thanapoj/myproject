@@ -1,5 +1,10 @@
 # MyProject by Thanapoj
 
+## Demo 
+```
+http://108dog.com:5000/
+```
+
 ## Install for windows
 ### Zend Framework
 ```
