@@ -1,6 +1,10 @@
-###Install
+# Zend Framework 3 
+
+## Project setup
+```
 composer update
 composer install
 
-###run
+## Project Run
+```
 composer serve
